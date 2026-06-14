@@ -1,0 +1,25 @@
+﻿i,exam_name,status,file,url
+0,2015 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2015_AIME_I_Answer_Key
+15,2015 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2015_AIME_II_Answer_Key
+30,2016 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2016_AIME_I_Answer_Key
+45,2016 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2016_AIME_II_Answer_Key
+60,2017 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2017_AIME_I_Answer_Key
+75,2017 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2017_AIME_II_Answer_Key
+90,2018 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2018_AIME_I_Answer_Key
+105,2018 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2018_AIME_II_Answer_Key
+120,2019 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2019_AIME_I_Answer_Key
+135,2019 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2019_AIME_II_Answer_Key
+150,2020 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2020_AIME_I_Answer_Key
+165,2020 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2020_AIME_II_Answer_Key
+180,2021 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2021_AIME_I_Answer_Key
+195,2021 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2021_AIME_II_Answer_Key
+210,2022 AIME I,http_403,,https://artofproblemsolving.com/wiki/index.php/2022_AIME_I_Answer_Key
+225,2022 AIME II,http_403,,https://artofproblemsolving.com/wiki/index.php/2022_AIME_II_Answer_Key
+240,2023 AIME I,ok,data/raw/html\2023_AIME_I_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2023_AIME_I_Answer_Key
+255,2023 AIME II,ok,data/raw/html\2023_AIME_II_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2023_AIME_II_Answer_Key
+270,2024 AIME I,ok,data/raw/html\2024_AIME_I_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Answer_Key
+285,2024 AIME II,ok,data/raw/html\2024_AIME_II_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Answer_Key
+300,2025 AIME I,ok,data/raw/html\2025_AIME_I_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Answer_Key
+315,2025 AIME II,ok,data/raw/html\2025_AIME_II_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Answer_Key
+330,2026 AIME I,ok,data/raw/html\2026_AIME_I_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2026_AIME_I_Answer_Key
+345,2026 AIME II,ok,data/raw/html\2026_AIME_II_answer_key.html,https://artofproblemsolving.com/wiki/index.php/2026_AIME_II_Answer_Key

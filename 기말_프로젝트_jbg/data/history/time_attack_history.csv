@@ -1,0 +1,6 @@
+﻿saved_at,player_name,session_type,attempt_id,question_index,year,examtype,problemno,topic,difficulty,problem_score,user_answer,true_answer,correct,gave_up,elapsed_seconds,expected_seconds,speed_ratio,speed_label
+2026-06-14 18:02:35,조백건,time_attack,time_20260614_180235,1,2022,AIME I,5,Algebra,1,10,,550,False,True,101.72940468788147,180.0,0.5651633593771193,Give Up
+2026-06-14 18:02:35,조백건,time_attack,time_20260614_180235,2,2022,AIME II,11,Geometry,3,30,,180,False,True,5.063583135604858,600.0,0.008439305226008097,Give Up
+2026-06-14 18:02:35,조백건,time_attack,time_20260614_180235,3,2023,AIME II,4,Algebra,1,10,362,273,False,False,188.03601121902466,180.0,1.0446445067723593,Average
+2026-06-14 18:02:35,조백건,time_attack,time_20260614_180235,4,2025,AIME II,3,Algebra,1,10,82,082,False,False,265.20581316947937,180.0,1.4733656287193297,Little Slow
+2026-06-14 18:02:35,조백건,time_attack,time_20260614_180235,5,2024,AIME II,3,Combinatorics,1,10,45,045,False,False,96.05317950248718,180.0,0.5336287750138177,Excellent!

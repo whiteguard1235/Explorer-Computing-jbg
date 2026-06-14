@@ -1,0 +1,6 @@
+﻿saved_at,player_name,session_type,attempt_id,question_index,year,examtype,problemno,topic,difficulty,problem_score,user_answer,true_answer,correct
+2026-06-14 17:50:39,조백건,random_test,random_20260614_175039,1,2020,AIME I,1,Geometry,1,10,547,547,True
+2026-06-14 17:50:39,조백건,random_test,random_20260614_175039,2,2026,AIME I,10,Geometry,3,30,,156,False
+2026-06-14 17:50:39,조백건,random_test,random_20260614_175039,3,2026,AIME II,10,Geometry,3,30,,340,False
+2026-06-14 17:50:39,조백건,random_test,random_20260614_175039,4,2026,AIME II,6,Geometry,2,20,50,050,False
+2026-06-14 17:50:39,조백건,random_test,random_20260614_175039,5,2026,AIME I,9,Number Theory,3,30,105,029,False

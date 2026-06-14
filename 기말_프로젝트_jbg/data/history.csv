@@ -1,0 +1,9 @@
+﻿player_name,mode,correct_count,total,earned_score,total_score,score_rate,topic_summary
+조백건,Custom Test,2,6,2,6,0.3333,"{""대수(Algebra)"": 0.33}"
+조백건,Custom Test,2,10,2,10,0.2,"{""기하학(Geometry)"": 0.25, ""대수(Algebra)"": 0.5, ""조합론(Combinatorics)"": 0.0}"
+조백건,Custom Test,6,10,6,10,0.6,"{""기하학(Geometry)"": 0.75, ""대수(Algebra)"": 1.0, ""조합론(Combinatorics)"": 0.25}"
+조백건,Time Attack,3,4,3,4,0.75,"{""기하학(Geometry)"": 1.0, ""정수론(Number Theory)"": 0.0, ""조합론(Combinatorics)"": 1.0}"
+조백건,Time Attack,4,7,4,7,0.5714,"{""기하학(Geometry)"": 0.5, ""대수(Algebra)"": 0.33, ""정수론(Number Theory)"": 1.0, ""조합론(Combinatorics)"": 1.0}"
+조백건,Custom Test,0,10,0,10,0.0,"{""기하학(Geometry)"": 0.0, ""대수(Algebra)"": 0.0, ""조합론(Combinatorics)"": 0.0}"
+조백건,Custom Test,1,8,10,80,0.125,"{""기하학(Geometry)"": 0.17, ""정수론(Number Theory)"": 0.0}"
+조백건,Time Attack,1,4,20,70,0.25,"{""기하학(Geometry)"": 0.33, ""대수(Algebra)"": 0.0}"
